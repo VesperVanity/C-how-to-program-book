@@ -13,7 +13,7 @@ int main(void)
 	printf("%s\n", "Enter three integers: ");
 	int x, y, z = 0;
 	scanf("%d%d%d", &x, &y, &z);
-	int result = x + y + z;
+	int result = x * y * z;
 	printf("%s%d\n", "The product is: ", result);
 	return 0;
 }
