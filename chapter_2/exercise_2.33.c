@@ -1,6 +1,6 @@
 /*
 C: How to Program by Paul Deitel & Harvey Deitel
-Chapter 2 Exercise 2.32 Body Mass Index Calculator
+Chapter 2 Exercise 2.33 Car pool savings calculator
 File created: 2025-08-07
 File last modified: 2025-08-07
 Author: VesperVanity (VV) https://github.com/VesperVanity
@@ -9,6 +9,6 @@ Author: VesperVanity (VV) https://github.com/VesperVanity
 
 int main(void)
 {
-	
+
 	return 0;
 }
