@@ -9,7 +9,6 @@ Author: VesperVanity (VV) https://github.com/VesperVanity
 
 int main(void)
 {
-	printf("%s\n", "C: How to Program is on hiatus. 
-		Continue with this exercise when, or if, you return.");
+	printf("%s\n", "C: How to Program is on hiatus. Continue with this exercise when, or if, you return.");
 	return 0;
 }
